@@ -12,5 +12,6 @@ user_input.to_i-1
 end
 
 def move(board, index, value = 2)
-
+puts "Welcome to Tic Tac Toe!"
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
