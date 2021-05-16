@@ -12,5 +12,5 @@ user_input.to_i-1
 end
 
 def move(board, index, value = 2)
-  display_board(board, index = X)
+  display_board(board, X)
 end
